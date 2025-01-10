@@ -5,8 +5,8 @@ require('dotenv').config(); // Load environment variables
 // Hardcoded API request details
 const API_URL = process.env.API_URL; 
 const payload = {
-  telegramId: '5545454555', // Replace with a valid Telegram ID
-  points: 1000,             // Increment points by 10 (or any other value)
+  telegramId: '1429850114', // Replace with a valid Telegram ID
+  points: 10000,             // Increment points by 10 (or any other value)
 };
 
 // Function to call the API
