@@ -9,7 +9,7 @@ const users = [
    {telegramId:'778778787', points: 10032}, // Amy   115455545
    {telegramId:'115455545', points: 10032}, // Greg
    {telegramId:'33333375', points: 10032}, // Giga
-  // { telegramId: '1429850114', points: 15675 }, //Erv
+  { telegramId: '1429850114', points: 11675 }, //Erv
  // { telegramId: '2223232', points: 10217 }, //Beepman
   // { telegramId: '322223223', points: 10039}, //Marco
   // { telegramId: '666666535', points: 10127}, //Jigglypuff
