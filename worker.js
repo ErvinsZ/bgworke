@@ -8,7 +8,7 @@
 //    { telegramId: '7239375251', points: 11234 }, // Ari  
 //   // {telegramId:'778778787', points: 13032}, // Amy   115455545
 //   // {telegramId:'115455545', points: 10032}, // Greg
-//    {telegramId:'33333375', points: 10032}, // Giga
+    {telegramId:'33333375', points: 10032}, // Giga
 //   { telegramId: '1429850114', points: 11675 }, //Erv
 //    { telegramId: '2223232', points: 11217 }, //Beepman
 //   // { telegramId: '322223223', points: 10039}, //Marco
